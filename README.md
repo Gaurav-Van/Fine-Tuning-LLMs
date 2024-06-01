@@ -9,8 +9,8 @@ Introductory Guide where we will talk about Different Techniques of Fine Tuning 
 | Topics Covered         | 
 |------------------------| 
 |[Quantization Intuition](#quantization-intuition)|
-|[LORA Intuition](#lora-intuition)|
-|[QLORA Intuition](#qlora-intuiition)|
+|[LoRA Intuition](#lora-intuition)|
+|[QLoRA Intuition](#qlora-intuiition)|
 |[Finetuning with LLama2](#finetuning-with-llama2)|
 |[1 Bit LLM Intution](#1-bit-llm-intution)|
 |[Finetuning with Google Gemma Models](#finetuning-with-google-gemma-models)|
@@ -169,7 +169,7 @@ During QAT, the model is trained with the knowledge that it will eventually be q
 
 <hr>
 
-# LORA Intuition
+# LoRA Intuition
 
 Lora stands for `Low-Rank Adaption` and is a widely used, parameter-efficient fine-tuning technique for training custom LLMs. 
 
