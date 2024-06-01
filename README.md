@@ -8,16 +8,16 @@ Introductory Guide where we will talk about Different Techniques of Fine Tuning 
 
 | Topics Covered         | 
 |------------------------| 
-|[Quantization Intution](#quantization-intution)|
+|[Quantization Intuition](#quantization-intuition)|
 |[LORA Intuition](#lora-intuition)|
-|[QLORA Intution](#qlora-intuition)|
+|[QLORA Intuition](#qlora-intuiition)|
 |[Finetuning with LLama2](#finetuning-with-llama2)|
 |[1 Bit LLM Intution](#1-bit-llm-intution)|
 |[Finetuning with Google Gemma Models](#finetuning-with-google-gemma-models)|
 |[Contribution](#contribution)|
 <hr>
 
-# Quantization Intution
+# Quantization Intuition
 
 `Conversion from Higher Memory Format to lower memory format`
 
