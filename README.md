@@ -10,7 +10,7 @@ Introductory Guide where we will talk about Different Techniques of Fine Tuning 
 |------------------------| 
 |[Quantization Intuition](#quantization-intuition)|
 |[LoRA Intuition](#lora-intuition)|
-|[QLoRA Intuition](#qlora-intuiition)|
+|[QLoRA Intuition](#qlora-intuition)|
 |[Finetuning with LLama2](#finetuning-with-llama2)|
 |[1 Bit LLM Intution](#1-bit-llm-intution)|
 |[Finetuning with Google Gemma Models](#finetuning-with-google-gemma-models)|
